@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gitnitinhub
-- 👀 I’m interested in ... hacking google
-- 🌱 I’m currently learning ... nothing 
+- 👀 I’m interested in ... Knowing what is the latest about technology 
+- 🌱 I’m currently learning ... Java and PHP
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... msg here only
+- 📫 How to reach me ... 
 
 <!---
 gitnitinhub/gitnitinhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
